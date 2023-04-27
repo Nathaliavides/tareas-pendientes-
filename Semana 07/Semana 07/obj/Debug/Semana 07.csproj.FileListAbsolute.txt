@@ -1,0 +1,3 @@
+C:\Users\JIMENA\OneDrive\Escritorio\Semana 07\Semana 07\obj\Debug\Semana 07.csproj.AssemblyReference.cache
+C:\Users\JIMENA\OneDrive\Escritorio\Semana 07\Semana 07\obj\Debug\Semana 07.csproj.SuggestedBindingRedirects.cache
+C:\Users\JIMENA\OneDrive\Escritorio\Semana 07\Semana 07\obj\Debug\Semana 07.csproj.CoreCompileInputs.cache
